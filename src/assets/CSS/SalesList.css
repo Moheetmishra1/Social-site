@@ -1,0 +1,7 @@
+
+.slideProduct{
+    height: 290px;
+    display: flex;
+    gap: 20px;
+    overflow-y: hidden;
+}
