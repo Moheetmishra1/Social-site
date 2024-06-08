@@ -1,0 +1,32 @@
+
+
+.sliderz{
+    background-color: rebeccapurple;
+    height: 126px;
+    width: 232px;
+    display: flex;
+    align-items: end;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.pdetails{
+    margin-top: 60px;
+    display: flex;
+    gap: 14.65px;
+    color: #FFFFFF;
+    align-items: center;
+    font-size: 16px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.green{
+    width: 12px;
+    height: 12px;
+    background-color: green;
+    border: 3px solid white;
+    border-radius: 50%;
+    position: relative;
+    top: -39px;
+    left: 50px;
+}
